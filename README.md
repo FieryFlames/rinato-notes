@@ -27,3 +27,9 @@ system -> ../../mmcblk0p11 EMPTY --> Did samsung start with Android on this thin
 system-data -> ../../mmcblk0p13 --> ext4, /opt --> If you erase this partition, your watch won't boot back into Tizen. Do not touch it unless you have a backup and know your way into restoring it.
 user -> ../../mmcblk0p14 EXT4, /opt/usr --> all user data, including the MTP available part (/opt/usr/media) --> USED AS DATA & SDCARD IN ANDROID
 ```
+## links
+https://exynos.wiki.kernel.org/start
+https://forum.xda-developers.com/t/porting-android-to-gear-2.2992953/
+https://wiki.postmarketos.org/wiki/Samsung_Gear_2_(samsung-rinato)
+https://libera.irclog.whitequark.org/linux-exynos/2021-06-28
+https://github.com/AsteroidOS/asteroid/issues/127
