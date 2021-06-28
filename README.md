@@ -29,7 +29,11 @@ user -> ../../mmcblk0p14 EXT4, /opt/usr --> all user data, including the MTP ava
 ```
 ## links
 https://exynos.wiki.kernel.org/start
+
 https://forum.xda-developers.com/t/porting-android-to-gear-2.2992953/
+
 https://wiki.postmarketos.org/wiki/Samsung_Gear_2_(samsung-rinato)
+
 https://libera.irclog.whitequark.org/linux-exynos/2021-06-28
+
 https://github.com/AsteroidOS/asteroid/issues/127
